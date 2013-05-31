@@ -23,7 +23,7 @@ Or install it yourself as:
 
 Add this line to your application.js file:
 
-    //= require backbone-syphone
+    //= require backbone-syphon
 
 ## Contributing
 
