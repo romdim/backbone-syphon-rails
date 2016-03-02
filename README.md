@@ -4,7 +4,7 @@ It is a wrapper for [Backbone.Syphon](https://github.com/derickbailey/backbone.s
 ## Verstion
 The version of this gem follows that of the associated Backbone.Syphon version
 
-Current version is **0.4.1**
+Current version is **0.6.3**
 ## Installation
 
 Add this line to your application's Gemfile:
